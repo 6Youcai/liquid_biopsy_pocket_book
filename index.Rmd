@@ -8,6 +8,7 @@ documentclass: book
 biblio-style: apalike
 link-citations: yes
 github-repo: OpenGene/PocketBook
+cover-image: image/cover.jpg
 description: "Liquid biopsy pocket book (in Chinese), written by Bioinformatics engineers."
 ---
 
